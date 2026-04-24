@@ -86,7 +86,7 @@ python train_offline.py --subject SUBJECT_NAME --work_name WORK_NAME --config CO
 
 </details>
 
-We provide 12 pretrained avatar models [here](https://1drv.ms/u/c/c605a9d7c777e7ad/EX9KEcOnCgpOp_TWX0yCjO8BZlWfLv_Wbj3HDw6cPXwpIg?e=KJas7Z).
+We provide 12 pretrained avatar models [here](https://www.dropbox.com/scl/fi/tber5ozxzpftir0qopzjn/rgbavatar.zip?rlkey=bkgjbht5wgtlf410tdon5krk1&st=crzkmsdq&dl=0).
 
 ### Online Training
 
